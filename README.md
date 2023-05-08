@@ -1,5 +1,13 @@
 # Turn any text into emojis with Langchain and Nextjs
 
+This is part 2 of a Langchain+Nextjs series:
+
+Part 1: https://github.com/DennisKo/langchain-1-nextjs-stream
+
+Part 3: https://github.com/DennisKo/langchain-3-chat-ui
+
+Disclaimer: The code in this series is not meant for production or be taken as an example for best practices. It is meant to be be a starting point and conceptual example of how to implement those kind of technologies. There are bugs and no tests! You have been warned! ;)
+
 ## Getting Started
 
 First, run the development server:
